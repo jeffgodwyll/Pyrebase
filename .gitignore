@@ -9,3 +9,4 @@ castsub.json
 __pycache__
 *.pyc
 pyrebase.py.orig
+env/
